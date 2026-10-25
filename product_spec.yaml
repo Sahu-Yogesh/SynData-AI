@@ -1,0 +1,8 @@
+﻿product:
+  sku: "PREMIUM_GIFT_2025Q1"
+  category: "gift_wrap"
+  price_range: [45.0, 60.0]
+  launch_country: "United Kingdom"
+  target_segments: ["high_quantity", "uk_only"]
+  launch_window: "2025-02-01/2025-03-31"
+  baseline_analogue: "POST"

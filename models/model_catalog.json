@@ -1,0 +1,26 @@
+[
+  {
+    "name": "custom_ctgan",
+    "path": "D:\\C-DRIVE\\Desktop\\msc-it-project\\models\\custom_ctgan.pkl",
+    "created_at": "2026-10-24T22:19:48",
+    "dataset_name": "leads-duplicates-100.csv",
+    "columns": [
+      "Index",
+      "Account Id",
+      "Lead Owner",
+      "First Name",
+      "Last Name",
+      "Company",
+      "Phone 1",
+      "Phone 2",
+      "Email 1",
+      "Email 2",
+      "Website",
+      "Source",
+      "Deal Stage",
+      "Notes"
+    ],
+    "rows": 100,
+    "epochs": 10
+  }
+]
